@@ -1,0 +1,58 @@
+.slides{
+  width: 100%;
+  padding: 7% 10%;
+  height: 25%;
+}
+.carousel-item{
+  width: 100%;
+  height: 25%;
+  text-align: center;
+  margin: 20px;
+}
+.coder{
+  width: 40%;
+  height: 400px;
+  padding-left: 6px;
+  margin-left: 20px;
+}
+.event{
+  text-align: center;
+  padding: 0 15% 7% 15%;
+}
+#bar{
+  background-color:  #B9F9FF;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+    color: white;
+}
+.head{
+  padding: 7% 15%;
+}
+.copyright{
+  text-align: center;
+  padding: 1% 15%;
+}
+.social-icon{
+  text-align: center;
+  margin: 10px 20px;
+
+}
+#contactinfo{
+  background-color: #C4FCf7;
+  text-align: center;
+  padding: 5%;
+}
+.bar1{
+color: white;
+}
+body{
+  background-color: #C4FCf7;
+}
+.main{
+  font-weight: bold;
+}

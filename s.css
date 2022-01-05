@@ -1,0 +1,52 @@
+h2{
+  color: black;
+  text-align: center;
+  font-family: "Montserrat-bold";
+  font-size: 5.5rem;
+  line-height: 1.5;
+  padding:  7%  15% 7% 15%;
+}
+
+
+h3{
+  text-align: center;
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+#contactinfo{
+  background-color: #C4FCf7;
+  text-align: center;
+  padding: 5%;
+}
+.Events{
+  /* padding-bottom: 7%; */
+  padding: 0 7%;
+}
+#event{
+
+}
+
+.copyright{
+  text-align: center;
+  padding: 1% 15%;
+}
+.social-icon{
+  text-align: center;
+  margin: 10px 20px;
+
+}
+p{
+  text-align: center;
+}
+.footer{
+  text-align: center;
+}
+#bar{
+  background-color:#C4FCf7;
+}
+body{
+;
+}
+.main{
+  font-weight: bold;
+}
